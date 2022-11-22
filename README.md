@@ -15,7 +15,10 @@ Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning va
 - ARTICLE, semantisk tag där artiklar hör hemma
 - BR, break (ny rad)
 - BODY, där all content finns
+- DIV, container av content
 - P, paragraph med text
+- SCRIPT, tag där javascript kan skrivas
+- STYLE, tag där css kod kan skrivas
 - HEAD, huvudet i hemsidan
 - NAV, navigationen i hemsidan
 
