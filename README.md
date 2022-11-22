@@ -38,6 +38,9 @@ Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning va
 - P, paragraph med text
 - SCRIPT, tag där javascript kan skrivas
 - STYLE, tag där css kod kan skrivas
+- TABLE, en tabell där data presenteras
+- TR, table row (en rad i en tabell)
+- TD, en cell i ett table
 - UL, en ickeorganiserad lista
 
 Gruppens betyg på slogan. Ge en 1:a till er själva och dela ut 2-6 till de andra grupperna.
