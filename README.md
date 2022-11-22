@@ -22,6 +22,7 @@ Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning va
 - BR, break (ny rad)
 - BODY, där all content finns
 - DIV, container av content
+- embed definerar en container för en extern application
 - P, paragraph med text
 - SCRIPT, tag där javascript kan skrivas
 - STYLE, tag där css kod kan skrivas
