@@ -13,6 +13,7 @@ Agent Frantzen: Med rätt att googla.
 Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning vad den gör. Flest poäng för den grupp som har flest HTML taggar med korrekta beskrivningar i bokstavsordning. Fyll på denna lista
 - !DOCKTYPE - definerar dokument typ
 - A, länk till annat dokument eller inom samma dokument
+- abbr, definerar förkortningar eller akronymer
 - ADDRESS, kontaktinformation till hemsidan/ansvariga personen
 - ARTICLE, semantisk tag där artiklar hör hemma
 - ASIDE, innehåller content som inte är en del av resten av contentet på hemsidan
