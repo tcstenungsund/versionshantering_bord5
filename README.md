@@ -22,6 +22,7 @@ Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning va
 - HEAD, huvudet i hemsidan
 - NAV, navigationen i hemsidan
 - FOOTER, foten/botten på hemsidan
+-  UL, en ickeorganiserad lista
 
 
 Gruppens betyg på slogan. Ge en 1:a till er själva och dela ut 2-6 till de andra grupperna.
