@@ -23,6 +23,7 @@ Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning va
 - BODY, där all content finns
 - CANVAS, kan användas för att visa grafiskt innehåll via scripting
 - DIV, container av content
+- EMBED, definerar en container för en extern application
 - FOOTER, foten/botten på hemsidan
 - FORM, tag där användare kan ge input
 - HEAD, huvudet i hemsidan
@@ -32,17 +33,17 @@ Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning va
 - h4, header nummer 4
 - h5, header nummer 5
 - h6, header nummer 6
+- IMG, en bild
 - NAV, navigationen i hemsidan
 - P, paragraph med text
 - SCRIPT, tag där javascript kan skrivas
 - STYLE, tag där css kod kan skrivas
 - UL, en ickeorganiserad lista
 
-
 Gruppens betyg på slogan. Ge en 1:a till er själva och dela ut 2-6 till de andra grupperna.
-- Grupp 1, 2 poäng
-- Grupp 2, 2 poäng
-- Grupp 3, 2 poäng
-- Grupp 4, 2 poäng
+- Grupp 1, 4 poäng
+- Grupp 2, 3 poäng
+- Grupp 3, 6 poäng
+- Grupp 4, 5 poäng
 - Grupp 5, 1 poäng
 - Grupp 6, 2 poäng
