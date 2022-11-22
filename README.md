@@ -20,6 +20,7 @@ Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning va
 - BLOCKQUOTE, En sektion där man quotar text från en annan källa
 - BR, break (ny rad)
 - BODY, där all content finns
+- CANVAS, kan användas för att visa grafiskt innehåll via scripting
 - DIV, container av content
 - P, paragraph med text
 - SCRIPT, tag där javascript kan skrivas
