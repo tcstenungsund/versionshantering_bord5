@@ -11,7 +11,6 @@ Agent Frantzen: Med rätt att googla.
 ## Uppgift 2
 
 Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning vad den gör. Flest poäng för den grupp som har flest HTML taggar med korrekta beskrivningar i bokstavsordning. Fyll på denna lista
-- !DOCKTYPE - definerar dokument typ
 - A, länk till annat dokument eller inom samma dokument
 - abbr, definerar förkortningar eller akronymer
 - ADDRESS, kontaktinformation till hemsidan/ansvariga personen
@@ -23,6 +22,12 @@ Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning va
 - BODY, där all content finns
 - CANVAS, kan användas för att visa grafiskt innehåll via scripting
 - DIV, container av content
+- h1, header nummer 1
+- h2, header nummer 2
+- h3, header nummer 3
+- h4, header nummer 4
+- h5, header nummer 5
+- h6, header nummer 6
 - P, paragraph med text
 - SCRIPT, tag där javascript kan skrivas
 - STYLE, tag där css kod kan skrivas
@@ -30,6 +35,7 @@ Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning va
 - NAV, navigationen i hemsidan
 - FOOTER, foten/botten på hemsidan
 -  UL, en ickeorganiserad lista
+- !DOCKTYPE - definerar dokument typ
 
 
 Gruppens betyg på slogan. Ge en 1:a till er själva och dela ut 2-6 till de andra grupperna.
