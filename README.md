@@ -5,7 +5,6 @@ PRs / branches som ej har mergats kommer ej räknas.
 
 ## Uppgift 1
 
-Skriv en slogan om Kenneth
 Agent Frantzen: Med rätt att googla.
 
 ## Uppgift 2
