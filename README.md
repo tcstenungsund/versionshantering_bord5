@@ -14,6 +14,7 @@ Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning va
 - !DOCKTYPE - definerar dokument typ
 - A, länk till annat dokument eller inom samma dokument
 - ARTICLE, semantisk tag där artiklar hör hemma
+- abbr, definerar förkortningar eller akronymer
 - BR, break (ny rad)
 - BODY, där all content finns
 - DIV, container av content
