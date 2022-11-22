@@ -13,7 +13,13 @@ Agent Frantzen: Med rätt att googla.
 Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning vad den gör. Flest poäng för den grupp som har flest HTML taggar med korrekta beskrivningar i bokstavsordning. Fyll på denna lista
 - A, länk till annat dokument eller inom samma dokument
 - P, paragraph med text
-- h, huvudet i hemsidan
+- p2, paragraph 2 med text
+- p3, paragraph 3 med text
+- p4, paragraph 4 med text
+- p5, paragraph 5 med text
+- p6, paragraph 6 med text
+- head, huvudet i hemsidan
+
 ---
 
 
