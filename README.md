@@ -23,6 +23,7 @@ Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning va
 - BODY, där all content finns
 - CANVAS, kan användas för att visa grafiskt innehåll via scripting
 - DIV, container av content
+- embed definerar en container för en extern application
 - h1, header nummer 1
 - h2, header nummer 2
 - h3, header nummer 3
