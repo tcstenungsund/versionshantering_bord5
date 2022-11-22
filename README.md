@@ -11,6 +11,7 @@ Agent Frantzen: Med rätt att googla.
 ## Uppgift 2
 
 Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning vad den gör. Flest poäng för den grupp som har flest HTML taggar med korrekta beskrivningar i bokstavsordning. Fyll på denna lista
+- !DOCKTYPE - definerar dokument typ
 - A, länk till annat dokument eller inom samma dokument
 - abbr, definerar förkortningar eller akronymer
 - ADDRESS, kontaktinformation till hemsidan/ansvariga personen
@@ -35,7 +36,6 @@ Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning va
 - NAV, navigationen i hemsidan
 - FOOTER, foten/botten på hemsidan
 -  UL, en ickeorganiserad lista
-- !DOCKTYPE - definerar dokument typ
 
 
 Gruppens betyg på slogan. Ge en 1:a till er själva och dela ut 2-6 till de andra grupperna.
