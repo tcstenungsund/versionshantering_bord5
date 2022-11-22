@@ -17,6 +17,7 @@ Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning va
 - BODY, där all content finns
 - P, paragraph med text
 - HEAD, huvudet i hemsidan
+- NAV, navigationen i hemsidan
 
 
 Gruppens betyg på slogan. Ge en 1:a till er själva och dela ut 2-6 till de andra grupperna.
