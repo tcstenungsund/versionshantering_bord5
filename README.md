@@ -12,15 +12,11 @@ Agent Frantzen: Med rätt att googla.
 
 Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning vad den gör. Flest poäng för den grupp som har flest HTML taggar med korrekta beskrivningar i bokstavsordning. Fyll på denna lista
 - A, länk till annat dokument eller inom samma dokument
+- ARTICLE, semantisk tag där artiklar hör hemma
+- BR, break (ny rad)
+- BODY, där all content finns
 - P, paragraph med text
-- p2, paragraph 2 med text
-- p3, paragraph 3 med text
-- p4, paragraph 4 med text
-- p5, paragraph 5 med text
-- p6, paragraph 6 med text
-- head, huvudet i hemsidan
-
----
+- HEAD, huvudet i hemsidan
 
 
 Gruppens betyg på slogan. Ge en 1:a till er själva och dela ut 2-6 till de andra grupperna.
