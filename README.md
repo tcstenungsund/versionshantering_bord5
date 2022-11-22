@@ -11,6 +11,7 @@ Agent Frantzen: Med rätt att googla.
 ## Uppgift 2
 
 Lista alla HTML taggar ni kan komma på i bokstavsordning och med beskrivning vad den gör. Flest poäng för den grupp som har flest HTML taggar med korrekta beskrivningar i bokstavsordning. Fyll på denna lista
+- !DOCKTYPE - definerar dokument typ
 - A, länk till annat dokument eller inom samma dokument
 - ARTICLE, semantisk tag där artiklar hör hemma
 - BR, break (ny rad)
